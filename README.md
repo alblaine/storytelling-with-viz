@@ -1,3 +1,3 @@
-# DLF 2016
-## Open science: How libraries can support modern research practice
-## Supporting the modern research skillset: The summer of open science
+# Presentation for IPGE 296: Big Data In Your Pocket
+## Telling Stories with Data Visualizations
+## November 1, 2016666666
